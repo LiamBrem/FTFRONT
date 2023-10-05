@@ -16,7 +16,7 @@ function GoogleSignIn({ userType }: GoogleSignInProps ) {
     };
     return (
         <div>
-            <h2>React Google Login</h2>
+            <h2>Login With Google</h2>
             <br />
             <br />
             <GoogleLogin
